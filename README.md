@@ -1,5 +1,5 @@
 # asciidoctor-scroll-highlighting
-A short script which enables highlighting the current position in your table of contents in a generated asciidoc html.
+A short script which enables highlighting the current position in your table of contents as you scroll through the document.
 ![alt-tag](https://delsner.github.io/ScrollingBehavior.gif)
 
 ## Instructions

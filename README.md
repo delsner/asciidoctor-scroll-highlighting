@@ -3,6 +3,6 @@ A short script which enables highlighting the current position in your table of 
 ![alt-tag](https://delsner.github.io/ScrollingBehavior.gif)
 
 ## Instructions
-Add code snippet in [Script](script.html) anywhere in your code and wrap it with `++++`.
+Add code snippet in [script](script.html) anywhere in your code and wrap it with `++++`.
 
 
